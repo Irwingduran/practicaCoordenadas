@@ -1,10 +1,9 @@
 # practicaCoordenadas
 
-Trace un círculo usando las coordenadas polares, sin centro en el
+1. Trace un círculo usando las coordenadas polares, sin centro en el
 origen.
 
-2. Trace un círculo usando las coordenadas paramétricas, según
-diapositiva anterior
+2. Trace un círculo usando las coordenadas paramétricas
 
 0° ≤ θ ≤ 360°
 
